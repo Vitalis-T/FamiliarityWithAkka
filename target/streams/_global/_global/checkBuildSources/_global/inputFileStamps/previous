@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/vitalis/akka-tutorial/build.sbt","91b96108b3215e417b6f7c71414e73d81a95f8c9"],["/home/vitalis/akka-tutorial/project/metals.sbt","3f38da75ebea96f46cd41f3c71103c231f185fad"]],"lastModifiedTimes":[]}]

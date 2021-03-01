@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(off_doc.examples.DeviceSpec, org.scalatest.tools.Framework$$anon$1@193731a0, false, [SuiteSelector])[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(off_doc.examples.DeviceGroupSpec, org.scalatest.tools.Framework$$anon$1@193731a0, false, [SuiteSelector])[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mDeviceSpec:[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mDevice actor[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- must reply with empty reading if no temperature is known[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- reply with latest temperature reading[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mDeviceGroupSpec:[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- be able to register a device actor[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- ignore requests for wrong groupId[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- return same actor for same deviceId[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- be able to list active devices[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- be able to list active devices after one shuts down[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 254 milliseconds.[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	off_doc.examples.DeviceGroupSpec[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	off_doc.examples.DeviceSpec[0m[0J

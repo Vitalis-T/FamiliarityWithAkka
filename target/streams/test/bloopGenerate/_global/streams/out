@@ -1,0 +1,4 @@
+[debug] [akka-tutorial-test] Classpath dependencies List()
+[debug] [akka-tutorial-test] Dependencies from configurations List(akka-tutorial)
+[debug] Bloop wrote the configuration of project 'akka-tutorial-test' to '/home/vitalis/akka-tutorial/.bloop/akka-tutorial-test.json'
+[success] Generated .bloop/akka-tutorial-test.json
