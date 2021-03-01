@@ -49,11 +49,11 @@ object PaymentProcessor {
    Behaviors.empty
   }
  }
-	
+  
 object Configuration {
  def apply(): Behavior[ConfigurationMessage] = Behaviors.setup(context => new Configuration(context))
 }
-	
+  
 object Main extends App {
  val root = ActorSystem[Nothing](PaymentProcessor(), "typed-payment-processor")
  Thread.sleep(1000)
